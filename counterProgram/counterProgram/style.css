@@ -1,0 +1,22 @@
+body{
+    
+    margin : 0 , auto ;
+    text-align: center;
+    background-color: rgb(87, 197, 248);}
+#cn{font-size: 100px ;
+    display:block ;
+     text-align: center;}
+#button
+{text-align: center;}
+.buttons{
+    padding: 10px 20px ;
+    font-size: larger;
+    color:rgb(66, 0, 0) ;
+    background-color: rgb(226, 89, 203);
+    border-radius: 25px ;
+    cursor:pointer ;
+    transition : background-color 0.25s ;
+}
+.buttons:hover{
+ background-color: rgb(170, 5, 170);
+}
