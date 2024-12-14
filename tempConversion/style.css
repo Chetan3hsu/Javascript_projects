@@ -1,0 +1,15 @@
+body{background-color: rgb(236, 162, 187);
+text-align: center;}
+button{border-radius: 150px ;
+background-color: burlywood;
+padding: 10px , 15px;}
+button:hover
+{background-color: brown;}
+form
+{background-color: rgb(235, 57, 93);
+text-align: center;
+margin:auto ;
+padding:25px ;
+max-width:350px ;
+border-radius: 50px;
+box-shadow:5px 5px ;}
